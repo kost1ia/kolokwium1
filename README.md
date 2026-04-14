@@ -18,3 +18,8 @@ git commit -m "Dodalem plik tylko z imieniem i nazwiskiem"
 git push -u origin main 
 git switch 
 git add README.md
+
+zadanie 3
+
+![alt text](image.png)
+![alt text](image-1.png)
